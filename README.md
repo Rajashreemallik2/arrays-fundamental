@@ -1,0 +1,2 @@
+# arrays-fundamental
+Arrays practice 
